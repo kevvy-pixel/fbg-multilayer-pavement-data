@@ -1,0 +1,6 @@
+case_id,real_load_x_cm,peak_x_line1_cm,peak_x_line2_cm,position_error_cm
+40kg纵中心线30cm加载,30,62,NaN,32
+40kg纵中心线42.5cm加载,42.5,52,NaN,9.5
+40kg单点中心加载,60,62,NaN,2
+40kg纵中心线90cm加载,90,62,NaN,-28
+40kg纵中心线95cm加载,95,62,NaN,-33

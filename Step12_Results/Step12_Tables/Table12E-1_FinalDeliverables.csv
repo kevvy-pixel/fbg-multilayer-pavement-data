@@ -1,0 +1,8 @@
+output,definition,in_report,confidence,comment
+"1D Displacement Profiles","PDE-constrained w(x), SS BC, Joint EI/k",yes,high,可直接用于报告/论文
+"2D Displacement Field (Center)","1D backbone x lateral Gaussian",yes,medium-high,40kg和80kg代表性最强
+"2D Displacement Field (Dual)","Dual-peak empirical fit",yes,medium,可展示双峰区分能力
+"Physical Parameters (EI,k,Lc)","Joint identification from 8 center cases",yes,medium-high,建议报告值+区间
+"Interlayer Coupling (eta)","Soil/Asphalt peak ratio",yes,medium,高荷载段更稳定
+"Boundary Case Displacement","Model3 asymmetric Gaussian",no (validation only),low,仅作方法验证
+"G_p, k_eps","Not formally identified",no,low,后续工作

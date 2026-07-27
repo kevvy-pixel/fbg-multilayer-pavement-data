@@ -1,0 +1,11 @@
+Name,Group,X_m,Y_m,Z_m
+Center_single,Single-center,0.6,0.25,0
+40kg_longitudinal_center_x30,40kg longitudinal center line,0.3,0.25,0
+40kg_longitudinal_center_x42_5,40kg longitudinal center line,0.425,0.25,0
+40kg_longitudinal_center_x90,40kg longitudinal center line,0.9,0.25,0
+40kg_longitudinal_center_x95,40kg longitudinal center line,0.95,0.25,0
+Double_symmetric_lower,5/10/25/35/40kg symmetric double-point,0.6,0.15,0
+Double_symmetric_upper,5/10/25/35/40kg symmetric double-point,0.6,0.35,0
+Double_asymmetric_p1,5/10/25kg asymmetric double-point,0.4,0.15,0
+Double_asymmetric_p2,5/10/25kg asymmetric double-point,0.8,0.35,0
+40kg_single_eccentric,40kg single eccentric,0.6,0.15,0

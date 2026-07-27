@@ -1,0 +1,8 @@
+Name,Layer,Type,X_start_m,Y_start_m,Z_start_m,X_end_m,Y_end_m,Z_end_m,RepX_m,RepY_m,RepZ_m
+SAT2-6FBGs,Asphalt,Vertical_6pts,0.425,0.125,-0.04,0.425,0.375,-0.04,0.425,0.125,-0.04
+SAL2-8FBGs,Asphalt,Horizontal_8pts,0.37,0.18,-0.04,0.72,0.18,-0.04,0.37,0.18,-0.04
+SAL1-8FBGs,Asphalt,Horizontal_8pts,0.5,0.25,-0.04,0.85,0.25,-0.04,0.5,0.25,-0.04
+SAT1-6FBGs,Asphalt,Vertical_6pts,1.01,0.08,-0.04,1.01,0.33,-0.04,1.01,0.08,-0.04
+SSL1-8FBGs,Soil,Horizontal_8pts,0.315,0.25,-0.17,0.665,0.25,-0.17,0.315,0.25,-0.17
+SSL2-8FBGs,Soil,Horizontal_8pts,0.445,0.195,-0.17,0.795,0.195,-0.17,0.445,0.195,-0.17
+SST-6FBGs,Soil,Vertical_6pts,0.9,0.08,-0.17,0.9,0.33,-0.17,0.9,0.08,-0.17
