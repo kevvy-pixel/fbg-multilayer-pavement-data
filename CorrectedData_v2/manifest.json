@@ -1,0 +1,16 @@
+{
+  "version": "CorrectedData_v2",
+  "task": "零荷载到加载并持载；不包含卸载阶段",
+  "cases": 22,
+  "rows": 1122,
+  "asphalt_sensors_per_case": 28,
+  "soil_sensors_per_case": 22,
+  "temperature_sensors_per_case": 1,
+  "notes": [
+    "Demod1 对应沥青层，共28个FBG。",
+    "Demod2 对应土层，共22个FBG，D2_CH4为温度参考。",
+    "所有波长变化都使用同次记录中检测到加载前的零荷载窗口作为基线。",
+    "原始记录仅包含零荷载到加载并持载的过程，不能得到卸载后的残余沉降。",
+    "加入边界或位移锚点假设后可重建相对位移；仅凭应变不能识别绝对沉降。"
+  ]
+}
