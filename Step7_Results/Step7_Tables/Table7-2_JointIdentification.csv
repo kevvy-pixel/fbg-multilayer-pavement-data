@@ -1,7 +1,0 @@
-parameter_name,identified_value,lower_bound,upper_bound,sensitivity_rank,note
-a_shared,11.9158850099998,3,40,1,global longitudinal spread
-b_shared,5.42214242341351,2,30,2,global transverse spread
-A_10kg,0.198884389087816,0,5,NaN,case-specific amplitude
-A_20kg,1.05433032745058,0,5,NaN,case-specific amplitude
-A_40kg,1.25820463789899,0,5,NaN,case-specific amplitude
-A_80kg,4.99999999999998,0,5,NaN,case-specific amplitude

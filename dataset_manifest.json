@@ -1,0 +1,21 @@
+{
+  "dataset_name": "guochuang_fbg_pavement_dataset",
+  "created_on": "2026-10-09",
+  "raw_data_files": {
+    "Demod1": 22,
+    "Demod2": 22,
+    "demo1_no_load": 4,
+    "demo2_no_load": 2
+  },
+  "integrated_cases": 22,
+  "integrated_response_rows": 1122,
+  "dynamic_training_rows": 309100,
+  "spatial_model_files": 6,
+  "mapping_workbook": "mapping/demod对应关系.xlsx",
+  "units": {
+    "raw_wavelength": "nm",
+    "integrated_response": "nm",
+    "coordinates": "m in spatial_model CSV, cm in reorganized CSV",
+    "load_mass": "kg"
+  }
+}

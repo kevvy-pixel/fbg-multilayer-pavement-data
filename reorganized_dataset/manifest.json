@@ -1,0 +1,19 @@
+{
+  "mapping_authority": "demod对应关系.xlsx",
+  "cases": 22,
+  "rows": 1122,
+  "demod1_channels": {
+    "CH1": "SAL1/Asphalt",
+    "CH2": "SAT1/Asphalt",
+    "CH3": "SSL1/Soil",
+    "CH4": "SST/Soil"
+  },
+  "demod2_channels": {
+    "CH1": "SAL2/Asphalt",
+    "CH2": "SAT2/Asphalt",
+    "CH3": "SSL2/Soil",
+    "CH4": "Temperature"
+  },
+  "source_policy": "Demod1/Demod2 case TXT plus only Peaks.*.txt from each no-load folder",
+  "note": "Raw source files are not modified or copied; this directory contains derived tables and provenance."
+}

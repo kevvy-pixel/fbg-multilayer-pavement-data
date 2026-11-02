@@ -1,0 +1,17 @@
+{
+  "source_dynamic": "C:\\Users\\27356\\Documents\\Codex\\2026-08-01\\kevvy-pixel-fbg-pavement-neural-field\\outputs\\reorganized_mapping_rebuild\\dynamic_dataset_1s.npz",
+  "source_mapping": "C:\\Users\\27356\\Documents\\Codex\\2026-10-07\\c-users-27356-documents-codex-2026\\outputs\\reorganized_dataset_excel_mapping\\Reorganized_Sensor_Mapping.csv",
+  "source_split": "C:\\Users\\27356\\Documents\\Codex\\2026-10-07\\c-users-27356-documents-codex-2026\\outputs\\reorganized_dataset_excel_mapping\\fixed_case_split_reorganized_mapping.csv",
+  "source_weights": "C:\\Users\\27356\\Documents\\Codex\\2026-10-07\\c-users-27356-documents-codex-2026\\outputs\\reorganized_dataset_excel_mapping\\sensor_quality_weights_from_no_load_peaks.csv",
+  "cases": 22,
+  "development_cases": 17,
+  "fixed_test_cases": 5,
+  "structural_sensors": 50,
+  "relative_time_s": [
+    0,
+    280
+  ],
+  "time_step_s": 1,
+  "rows": 309100,
+  "temperature_excluded": true
+}

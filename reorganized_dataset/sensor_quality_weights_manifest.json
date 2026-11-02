@@ -1,0 +1,10 @@
+{
+  "source_dirs":[
+    "D:\\matlab\\guochuang\\demo1无工况结果",
+    "D:\\matlab\\guochuang\\demo2无工况结果"
+  ],
+  "source_policy":"only Peaks.*.txt",
+  "d2_ch1_omitted_observed_peak":5,
+  "reference_median_std_nm":0.0022809619,
+  "fixed_test_independent":true
+}

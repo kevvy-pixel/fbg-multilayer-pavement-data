@@ -1,4 +1,0 @@
-BC_type,description,reasonableness,role,max_w_40kg_um,remark
-Simply Supported,"w=0,w''=0 at ends",reasonable,main,192.510553959949,adopted as primary BC
-Fixed Ends,"w=0,w'=0 at ends",conservative (lower bound),reference,74.8814010511188,supplementary comparison
-Free Ends,"w''=0,w'''=0 at ends",unreasonable (too large),rejected,NaN,数值不稳定，不采用
